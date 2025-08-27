@@ -129,7 +129,7 @@ const PaymentFlowSection = () => {
                           </div>
                         </div>
                       </div>
-                    )}
+                    </div>
                   </div>
                 )}
               </div>
